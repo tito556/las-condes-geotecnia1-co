@@ -7,194 +7,242 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/estabilidad-taludes</loc>
-    <lastmod>2026-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/masw</loc>
-    <lastmod>2026-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/pilotes</loc>
+    <loc>https://las-condes.geotecnia1.co/aislacion-sismica/</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/pavimento-rigido</loc>
-    <lastmod>2026-04-05</lastmod>
+    <loc>https://las-condes.geotecnia1.co/anclajes/</loc>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/resistividad</loc>
-    <lastmod>2026-05-09</lastmod>
+    <loc>https://las-condes.geotecnia1.co/calicatas/</loc>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/excavaciones-profundas</loc>
-    <lastmod>2026-04-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/triaxial</loc>
-    <lastmod>2026-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/cbr-vial</loc>
+    <loc>https://las-condes.geotecnia1.co/cbr-vial/</loc>
     <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/ensayo-cpt</loc>
-    <lastmod>2026-04-18</lastmod>
+    <loc>https://las-condes.geotecnia1.co/cimentaciones/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/microzonificacion-sismica</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://las-condes.geotecnia1.co/columnas-grava/</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/granulometria</loc>
-    <lastmod>2026-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/inyecciones</loc>
-    <lastmod>2026-04-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/anclajes</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/vibrocompactacion</loc>
-    <lastmod>2026-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/refraccion-sismica</loc>
-    <lastmod>2026-04-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/densidad-cono-arena</loc>
+    <loc>https://las-condes.geotecnia1.co/densidad-cono-arena/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/zapatas</loc>
-    <lastmod>2026-04-11</lastmod>
+    <loc>https://las-condes.geotecnia1.co/ensayo-cpt/</loc>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/losas-fundacion</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/monitoreo-excavaciones</loc>
-    <lastmod>2026-03-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/sondajes-spt</loc>
-    <lastmod>2026-05-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/muros-contencion</loc>
-    <lastmod>2026-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/contacto</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/columnas-grava</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/calicatas</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://las-condes.geotecnia1.co/ensayos-proctor</loc>
+    <loc>https://las-condes.geotecnia1.co/ensayos-proctor/</loc>
     <lastmod>2026-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/licuefaccion</loc>
+    <loc>https://las-condes.geotecnia1.co/estabilidad-taludes/</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/excavaciones-profundas/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/excavaciones-subterraneo/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/exploracion/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/geotecnia-vial/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/granulometria/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/inyecciones/</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/permeabilidad-in-situ</loc>
-    <lastmod>2026-05-17</lastmod>
+    <loc>https://las-condes.geotecnia1.co/laboratorio-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/tuneles-suelo-blando</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://las-condes.geotecnia1.co/laboratorio-lab/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/pavimento-flexible</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://las-condes.geotecnia1.co/licuefaccion/</loc>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/limites-atterberg</loc>
+    <loc>https://las-condes.geotecnia1.co/limites-atterberg/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/aislacion-sismica</loc>
+    <loc>https://las-condes.geotecnia1.co/losas-fundacion/</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/masw/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/mejoramiento/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/microzonificacion-sismica/</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/monitoreo-excavaciones/</loc>
+    <lastmod>2026-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/muros-contencion/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/pavimento-flexible/</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/pavimento-rigido/</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/permeabilidad-in-situ/</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/pilotes/</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://las-condes.geotecnia1.co/privacidad</loc>
-    <lastmod>2026-04-17</lastmod>
+    <loc>https://las-condes.geotecnia1.co/refraccion-sismica/</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/resistividad/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/sismica/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/sitemap/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/sondajes-spt/</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/taludes/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/triaxial/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/tuneles-suelo-blando/</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/vibrocompactacion/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://las-condes.geotecnia1.co/zapatas/</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
